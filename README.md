@@ -2,5 +2,5 @@
 ## she listens to too much medieval choral music
 * [Hardcore](https://github.com/micahvandegrift/musicforsarah/blob/master/hardcore.md)
 * Indie
-* Local Tallahassee
+* [Local Tallahassee](https://github.com/micahvandegrift/musicforsarah/blob/master/localtlh)
 
